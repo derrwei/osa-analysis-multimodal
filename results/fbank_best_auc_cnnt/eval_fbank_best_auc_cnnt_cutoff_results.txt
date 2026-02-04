@@ -1,0 +1,86 @@
+Cutoff: 5
+People below cutoff: 16
+People above cutoff: 141
+Sensitivity: 0.8014
+Specificity: 0.8125
+PPV: 0.9741
+NPV: 0.3171
+AUC: 0.8070
+Macro F1: 0.6678
+
+Confusion Matrix:
+[[0.8125     0.1875    ]
+ [0.19858156 0.80141844]]
+
+Cutoff: 10
+People below cutoff: 49
+People above cutoff: 108
+Sensitivity: 0.7130
+Specificity: 0.8571
+PPV: 0.9167
+NPV: 0.5753
+AUC: 0.7851
+Macro F1: 0.7453
+
+Confusion Matrix:
+[[0.85714286 0.14285714]
+ [0.28703704 0.71296296]]
+
+Cutoff: 15
+People below cutoff: 82
+People above cutoff: 75
+Sensitivity: 0.7200
+Specificity: 0.8537
+PPV: 0.8182
+NPV: 0.7692
+AUC: 0.7868
+Macro F1: 0.7876
+
+Confusion Matrix:
+[[0.85365854 0.14634146]
+ [0.28       0.72      ]]
+
+Cutoff: 20
+People below cutoff: 101
+People above cutoff: 56
+Sensitivity: 0.6786
+Specificity: 0.8911
+PPV: 0.7755
+NPV: 0.8333
+AUC: 0.7848
+Macro F1: 0.7925
+
+Confusion Matrix:
+[[0.89108911 0.10891089]
+ [0.32142857 0.67857143]]
+
+Cutoff: 25
+People below cutoff: 114
+People above cutoff: 43
+Sensitivity: 0.7907
+Specificity: 0.9649
+PPV: 0.8947
+NPV: 0.9244
+AUC: 0.8778
+Macro F1: 0.8919
+
+Confusion Matrix:
+[[0.96491228 0.03508772]
+ [0.20930233 0.79069767]]
+
+Cutoff: 30
+People below cutoff: 120
+People above cutoff: 37
+Sensitivity: 0.7838
+Specificity: 0.9750
+PPV: 0.9062
+NPV: 0.9360
+AUC: 0.8794
+Macro F1: 0.8978
+
+Confusion Matrix:
+[[0.975      0.025     ]
+ [0.21621622 0.78378378]]
+
+Overall MAE: 13.4779
+Overall RMSE: 31.9176

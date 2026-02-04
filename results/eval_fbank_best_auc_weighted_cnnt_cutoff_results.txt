@@ -1,0 +1,48 @@
+Cutoff: 5
+Sensitivity: 0.9167
+Specificity: 0.5000
+PPV: 0.9167
+NPV: 0.5000
+AUC: 0.7083
+Macro F1: 0.7083
+
+Cutoff: 10
+Sensitivity: 0.8000
+Specificity: 0.7500
+PPV: 0.8889
+NPV: 0.6000
+AUC: 0.7750
+Macro F1: 0.7544
+
+Cutoff: 15
+Sensitivity: 1.0000
+Specificity: 1.0000
+PPV: 1.0000
+NPV: 1.0000
+AUC: 1.0000
+Macro F1: 1.0000
+
+Cutoff: 20
+Sensitivity: 0.8000
+Specificity: 0.7778
+PPV: 0.6667
+NPV: 0.8750
+AUC: 0.7889
+Macro F1: 0.7754
+
+Cutoff: 25
+Sensitivity: 1.0000
+Specificity: 0.9091
+PPV: 0.7500
+NPV: 1.0000
+AUC: 0.9545
+Macro F1: 0.9048
+
+Cutoff: 30
+Sensitivity: 1.0000
+Specificity: 1.0000
+PPV: 1.0000
+NPV: 1.0000
+AUC: 1.0000
+Macro F1: 1.0000
+
